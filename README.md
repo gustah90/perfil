@@ -1,6 +1,6 @@
 # Gustavo Henrique
 
-> Programmer
+> Programmation student
 
 ## What I like to do
 
