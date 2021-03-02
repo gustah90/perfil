@@ -1,9 +1,9 @@
 # Gustavo Henrique
 
-> Programmation student
+> Graduating in Analysis and Development Systems by Fatene, in Brazil.
 
 ## What I like to do
 
-- Python
 - Java
+- Python
 - Javascript
