@@ -5,5 +5,6 @@
 ## What I like to do
 
 - Java
+- C#
 - Python
 - Javascript
