@@ -6,7 +6,7 @@
 
 Programador em formação.
 
-Linguagens:
+Languages:
 - Python;
 - Java;
 - Javascript;
@@ -19,6 +19,6 @@ Frameworks:
 - Spring MVC;
 - Hybernate.
 
-Bancos de Dados:
+Database:
 - MySQL;
 - MariaDB.
