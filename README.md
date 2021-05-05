@@ -4,7 +4,21 @@
 
 ## What I like to do
 
-- Java
-- C#
-- Python
-- Javascript
+Programador em formação.
+
+Linguagens:
+- Python;
+- Java;
+- Javascript;
+- Typescript;
+- C#.
+
+Frameworks:
+- Django;
+- ReactJS;
+- Spring MVC;
+- Hybernate.
+
+Bancos de Dados:
+- MySQL;
+- MariaDB.
